@@ -1,0 +1,7 @@
+---
+ -name: my first play
+  hosts: all
+  tasks:
+   -name: print message
+   msg: hello world
+
